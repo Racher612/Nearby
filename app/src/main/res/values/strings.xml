@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nearby</string>
+    <string name="tickets">tickets</string>
+    <string name="nav_id">id</string>
+    <string name="slash">/</string>
+    <string name="order_tickets">Order tickets:</string>
+    <string name="places">Places:</string>
+    <string name="buy">Buy!</string>
+    <string name="learn_more_about_event">Learn more about event:</string>
+    <string name="learn">learn!</string>
+    <string name="search_icon">Search icon</string>
+    <string name="clear_icon">Clear icon</string>
+    <string name="no_permission_for_location">No permission for location</string>
+    <string name="no_location_permission">No location permission</string>
+    <string name="search">Search!</string>
+    <string name="radius">radius</string>
+    <string name="could_not_get_geolocation">Could not get geolocation</string>
+    <string name="question">\???</string>
+    <string name="preview">preview</string>
+</resources>
